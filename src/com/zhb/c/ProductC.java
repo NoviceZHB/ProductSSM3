@@ -1,4 +1,4 @@
-package com.zhb.c;
+﻿package com.zhb.c;
 
 
 import java.util.List;
@@ -14,6 +14,7 @@ import com.zhb.service.ProductService;
  * @开发人员:占沪斌
  * @创建时间:2018年9月7日上午11:45:50
  */
+//测试
 @Controller
 public class ProductC {
 	@Autowired
