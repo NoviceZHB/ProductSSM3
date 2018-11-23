@@ -1,4 +1,4 @@
-package com.zhb.dao;
+﻿package com.zhb.dao;
 /**
 *@开发人员:占沪斌
 *@创建时间:2018年9月7日上午11:40:11
@@ -25,3 +25,5 @@ public interface ProductMapper {
     public List<Category> queryAllCateById(Map<Object, Object> map);
 
 }
+
+//这是第二个修改文件
